@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Recycle to save the planet",
+    "image": "/images/post-1.jpg",
+    "flex": 12
+  },
+  {
+    "title": "Small steps, big impact",
+    "image": "/images/post-2.jpg",
+    "flex": 6
+  },
+  {
+    "title": "Go green, save the earth",
+    "image": "/images/post-3.jpg",
+    "flex": 6
+  },
+  {
+    "title": "Carbon tracking for sustainable living",
+    "image": "/images/post-4.jpg",
+    "flex": 6
+  },
+  {
+    "title": "Reduce waste, save resources",
+    "image": "/images/post-5.jpg",
+    "flex": 6
+  },
+  {
+    "title": "Protect nature, recycle more",
+    "image": "/images/post-6.jpg",
+    "flex": 6
+  },
+  {
+    "title": "Eco-friendly lifestyle, reduce footprint",
+    "image": "/images/post-7.jpg",
+    "flex": 6
+  },
+  { "title": "Go green, live clean", "image": "/images/post-8.jpg", "flex": 6 },
+  { "title": "Waste less, save more", "image": "/images/post-9.jpg", "flex": 6 }
+]
