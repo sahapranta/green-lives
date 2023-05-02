@@ -1,5 +1,7 @@
 # Green Lives
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e31ecab3-8ef1-42cb-8dfb-5db268bb3689/deploy-status)](https://app.netlify.com/sites/green-lives/deploys)
+
 Garbage is eating our planet. But not every city dweller knows how to properly sort and
 where to put the accumulated garbage.
 A convenient mobile application for recycling in your pocket with clear visual
